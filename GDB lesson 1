@@ -33,6 +33,8 @@ gcc main.c -o main
 
 Debug Symbols: used to provde the binary file more information eg : variables and intial values.
 
+use -g gdb in gcc to use gbd symbols while compileing.
+
 
 
 
