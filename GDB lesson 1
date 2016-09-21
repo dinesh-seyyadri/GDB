@@ -1,1 +1,39 @@
 # GDB
+
+apt-get install build-essential make libglib2.0-dev vim  //install gdb
+
+debug - remove bugs from software
+
+Debugger
+
+GNU debugger
+Intel debuger
+Windbg
+softice -kernal mode debuger
+
+c is the language.
+
+1st program :
+
+#################################
+#include<stdio.h>
+
+main()
+{
+	printf("Hello to the World of GNU Debugger!\n\n");
+
+
+	return 0;
+
+}
+
+################################
+
+gcc main.c -o main
+
+Debug Symbols: used to provde the binary file more information eg : variables and intial values.
+
+
+
+
+
